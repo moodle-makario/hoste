@@ -1,0 +1,8 @@
+{
+  "name": "Hoste",
+  "app_id": "0323c8e4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
